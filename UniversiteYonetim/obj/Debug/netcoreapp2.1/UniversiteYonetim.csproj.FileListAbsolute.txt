@@ -1,0 +1,11 @@
+C:\Users\Sepkov\source\repos\UniversiteYonetim\UniversiteYonetim\bin\Debug\netcoreapp2.1\UniversiteYonetim.deps.json
+C:\Users\Sepkov\source\repos\UniversiteYonetim\UniversiteYonetim\bin\Debug\netcoreapp2.1\UniversiteYonetim.runtimeconfig.json
+C:\Users\Sepkov\source\repos\UniversiteYonetim\UniversiteYonetim\bin\Debug\netcoreapp2.1\UniversiteYonetim.runtimeconfig.dev.json
+C:\Users\Sepkov\source\repos\UniversiteYonetim\UniversiteYonetim\bin\Debug\netcoreapp2.1\UniversiteYonetim.dll
+C:\Users\Sepkov\source\repos\UniversiteYonetim\UniversiteYonetim\bin\Debug\netcoreapp2.1\UniversiteYonetim.pdb
+C:\Users\Sepkov\source\repos\UniversiteYonetim\UniversiteYonetim\obj\Debug\netcoreapp2.1\UniversiteYonetim.csprojAssemblyReference.cache
+C:\Users\Sepkov\source\repos\UniversiteYonetim\UniversiteYonetim\obj\Debug\netcoreapp2.1\UniversiteYonetim.csproj.CoreCompileInputs.cache
+C:\Users\Sepkov\source\repos\UniversiteYonetim\UniversiteYonetim\obj\Debug\netcoreapp2.1\UniversiteYonetim.AssemblyInfoInputs.cache
+C:\Users\Sepkov\source\repos\UniversiteYonetim\UniversiteYonetim\obj\Debug\netcoreapp2.1\UniversiteYonetim.AssemblyInfo.cs
+C:\Users\Sepkov\source\repos\UniversiteYonetim\UniversiteYonetim\obj\Debug\netcoreapp2.1\UniversiteYonetim.dll
+C:\Users\Sepkov\source\repos\UniversiteYonetim\UniversiteYonetim\obj\Debug\netcoreapp2.1\UniversiteYonetim.pdb
