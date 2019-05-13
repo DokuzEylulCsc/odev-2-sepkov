@@ -1,4 +1,5 @@
 ﻿using System;
+using Newtonsoft.Json;
 
 namespace UniversiteYonetim
 {
@@ -6,7 +7,10 @@ namespace UniversiteYonetim
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!")
+            Arayüz arayüz = new Arayüz();
+            
         }
     }
+
+    
 }
